@@ -1,0 +1,2108 @@
+fileFormatVersion: 2
+guid: 98d7e16a95021df49bafd02808571d3b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8835587308124564314
+    second: wood_env2_0
+  - first:
+      213: -5062966503562386357
+    second: wood_env2_1
+  - first:
+      213: 4461470007241451499
+    second: wood_env2_2
+  - first:
+      213: 4487088772720193614
+    second: wood_env2_3
+  - first:
+      213: -894133954927222070
+    second: wood_env2_4
+  - first:
+      213: -1504146702271211734
+    second: wood_env2_5
+  - first:
+      213: -5639069282269701628
+    second: wood_env2_6
+  - first:
+      213: -1593608339151243970
+    second: wood_env2_7
+  - first:
+      213: -4627983553403764191
+    second: wood_env2_8
+  - first:
+      213: 874046111108268516
+    second: wood_env2_9
+  - first:
+      213: 3352546049902058751
+    second: wood_env2_10
+  - first:
+      213: 8480341332481317961
+    second: wood_env2_11
+  - first:
+      213: 5273426940524832169
+    second: wood_env2_12
+  - first:
+      213: 3293980819321771860
+    second: wood_env2_13
+  - first:
+      213: 7263641606241447819
+    second: wood_env2_14
+  - first:
+      213: 8724679319340511908
+    second: wood_env2_15
+  - first:
+      213: 8083124313370461133
+    second: wood_env2_16
+  - first:
+      213: -7977733588959962773
+    second: wood_env2_17
+  - first:
+      213: 5252557865717423745
+    second: wood_env2_18
+  - first:
+      213: 3544542718975753035
+    second: wood_env2_19
+  - first:
+      213: -6365389463177994498
+    second: wood_env2_20
+  - first:
+      213: -5133735217570467765
+    second: wood_env2_21
+  - first:
+      213: 6181514030740795896
+    second: wood_env2_22
+  - first:
+      213: -6344837143104417764
+    second: wood_env2_23
+  - first:
+      213: -1883302343457755691
+    second: wood_env2_24
+  - first:
+      213: -3154502115549086489
+    second: wood_env2_25
+  - first:
+      213: 7100963328274774209
+    second: wood_env2_26
+  - first:
+      213: 583806463047051839
+    second: wood_env2_27
+  - first:
+      213: -4231981938826824000
+    second: wood_env2_28
+  - first:
+      213: 613807086563289839
+    second: wood_env2_29
+  - first:
+      213: -3368206274561463204
+    second: wood_env2_30
+  - first:
+      213: 4353485791214078787
+    second: wood_env2_31
+  - first:
+      213: -4347114046978047434
+    second: wood_env2_32
+  - first:
+      213: -536964451689078921
+    second: wood_env2_33
+  - first:
+      213: -3268675234632684993
+    second: wood_env2_34
+  - first:
+      213: 2118536241818310642
+    second: wood_env2_35
+  - first:
+      213: 7858154626038368195
+    second: wood_env2_36
+  - first:
+      213: 1619824683582505471
+    second: wood_env2_37
+  - first:
+      213: -3150820432024031479
+    second: wood_env2_38
+  - first:
+      213: -6318686216343260427
+    second: wood_env2_39
+  - first:
+      213: 2091505849583941204
+    second: wood_env2_40
+  - first:
+      213: 9129572399998152302
+    second: wood_env2_41
+  - first:
+      213: 4746297276972214989
+    second: wood_env2_42
+  - first:
+      213: 6747633809551736018
+    second: wood_env2_43
+  - first:
+      213: -5520950089707898624
+    second: wood_env2_44
+  - first:
+      213: -7173858982114127058
+    second: wood_env2_45
+  - first:
+      213: -6718166085558801048
+    second: wood_env2_46
+  - first:
+      213: 2591672773146833728
+    second: wood_env2_47
+  - first:
+      213: -8251280757399063145
+    second: wood_env2_48
+  - first:
+      213: -6314295849588426108
+    second: wood_env2_49
+  - first:
+      213: 8803210351701206291
+    second: wood_env2_50
+  - first:
+      213: -3497946397187718363
+    second: wood_env2_51
+  - first:
+      213: -4368778747141151227
+    second: wood_env2_52
+  - first:
+      213: -8871121259952106280
+    second: wood_env2_53
+  - first:
+      213: -6064414304316222549
+    second: wood_env2_54
+  - first:
+      213: 7846119939636046420
+    second: wood_env2_55
+  - first:
+      213: 3250212658973541072
+    second: wood_env2_56
+  - first:
+      213: -3457531723021802868
+    second: wood_env2_57
+  - first:
+      213: 7211848805889293088
+    second: wood_env2_58
+  - first:
+      213: 730004445263120253
+    second: wood_env2_59
+  - first:
+      213: 4798312933946771288
+    second: wood_env2_60
+  - first:
+      213: -6900477527460142975
+    second: wood_env2_61
+  - first:
+      213: -4138102499590725930
+    second: wood_env2_62
+  - first:
+      213: -1866229940004930819
+    second: wood_env2_63
+  - first:
+      213: -868532746587461222
+    second: wood_env2_64
+  - first:
+      213: -6768067575084425361
+    second: wood_env2_65
+  - first:
+      213: -4914280966676083825
+    second: wood_env2_66
+  - first:
+      213: 5093442282397927398
+    second: wood_env2_67
+  - first:
+      213: -4823385112495075907
+    second: wood_env2_68
+  - first:
+      213: 2166647449488516779
+    second: wood_env2_69
+  - first:
+      213: -4160149681293782758
+    second: wood_env2_70
+  - first:
+      213: -5495972839185974862
+    second: wood_env2_71
+  - first:
+      213: -1326763120520491458
+    second: wood_env2_72
+  - first:
+      213: -7220368036161615672
+    second: wood_env2_73
+  - first:
+      213: -2616765821065523276
+    second: wood_env2_74
+  - first:
+      213: 616133356305269683
+    second: wood_env2_75
+  - first:
+      213: -1510421813787321900
+    second: wood_env2_76
+  - first:
+      213: 3277621595381226129
+    second: wood_env2_77
+  - first:
+      213: 6041021994956232002
+    second: wood_env2_78
+  - first:
+      213: 4261185498107402740
+    second: wood_env2_79
+  - first:
+      213: -3681308972039319029
+    second: wood_env2_80
+  - first:
+      213: -61153600641660338
+    second: wood_env2_81
+  - first:
+      213: 1761676936822416078
+    second: wood_env2_82
+  - first:
+      213: 6468009393623924270
+    second: wood_env2_83
+  - first:
+      213: -7569824828896203860
+    second: wood_env2_84
+  - first:
+      213: 5351396909623958831
+    second: wood_env2_85
+  - first:
+      213: 6764978289290186988
+    second: wood_env2_86
+  - first:
+      213: -923698893495542758
+    second: wood_env2_87
+  - first:
+      213: 2978885380609994242
+    second: wood_env2_40
+  - first:
+      213: 1260513634396042415
+    second: wood_env2_41
+  - first:
+      213: 3097258016393564354
+    second: wood_env2_42
+  - first:
+      213: -1292423471381248965
+    second: wood_env2_43
+  - first:
+      213: -5927988500582395901
+    second: wood_env2_44
+  - first:
+      213: -2668897886375058644
+    second: wood_env2_45
+  - first:
+      213: -3709838721507433489
+    second: wood_env2_48
+  - first:
+      213: 5019077479922592330
+    second: wood_env2_49
+  - first:
+      213: 1363961872542085963
+    second: wood_env2_50
+  - first:
+      213: 6799547273935068816
+    second: wood_env2_51
+  - first:
+      213: 495348885182915594
+    second: wood_env2_52
+  - first:
+      213: -4501604268988705621
+    second: wood_env2_53
+  - first:
+      213: -1236123825891433830
+    second: wood_env2_54
+  - first:
+      213: 8864604861737894215
+    second: wood_env2_58
+  - first:
+      213: 4126286030182350099
+    second: wood_env2_59
+  - first:
+      213: 1020676557041503634
+    second: wood_env2_60
+  - first:
+      213: -4583660132622462557
+    second: wood_env2_61
+  - first:
+      213: 7072534715269896863
+    second: wood_env2_62
+  - first:
+      213: 7593547377359613291
+    second: wood_env2_63
+  - first:
+      213: -5414824553251703504
+    second: wood_env2_64
+  - first:
+      213: -8625916111705313511
+    second: wood_env2_68
+  - first:
+      213: 7301325382694328972
+    second: wood_env2_0
+  - first:
+      213: -1916992620223350417
+    second: wood_env2_1
+  - first:
+      213: -4747897858058523840
+    second: wood_env2_2
+  - first:
+      213: -6843315279455730279
+    second: wood_env2_3
+  - first:
+      213: 2661621032475995809
+    second: wood_env2_4
+  - first:
+      213: -8288880794398649255
+    second: wood_env2_5
+  - first:
+      213: 8785654181610860978
+    second: wood_env2_6
+  - first:
+      213: -7381791468928361016
+    second: wood_env2_7
+  - first:
+      213: 4060340964024656967
+    second: wood_env2_8
+  - first:
+      213: 7591162967920540966
+    second: wood_env2_9
+  - first:
+      213: 139554218927571453
+    second: wood_env2_10
+  - first:
+      213: 2850418635124655785
+    second: wood_env2_11
+  - first:
+      213: -3082014931306037310
+    second: wood_env2_12
+  - first:
+      213: -8404197482947909421
+    second: wood_env2_13
+  - first:
+      213: 3361544314471332443
+    second: wood_env2_14
+  - first:
+      213: 6112576866627044788
+    second: wood_env2_15
+  - first:
+      213: 2728803372443902206
+    second: wood_env2_16
+  - first:
+      213: -1742019472299424268
+    second: wood_env2_17
+  - first:
+      213: 8560134285794191346
+    second: wood_env2_18
+  - first:
+      213: -3236254030458986258
+    second: wood_env2_19
+  - first:
+      213: -1544513354304784799
+    second: wood_env2_20
+  - first:
+      213: 6624277566717991186
+    second: wood_env2_21
+  - first:
+      213: 3521084010303706935
+    second: wood_env2_22
+  - first:
+      213: 8796081633205289552
+    second: wood_env2_23
+  - first:
+      213: -7976019961254583738
+    second: wood_env2_24
+  - first:
+      213: -8093018096452309232
+    second: wood_env2_25
+  - first:
+      213: -826968722627258379
+    second: wood_env2_26
+  - first:
+      213: -1203014656227948252
+    second: wood_env2_27
+  - first:
+      213: -4366593740881156119
+    second: wood_env2_28
+  - first:
+      213: 8131757644199156905
+    second: wood_env2_29
+  - first:
+      213: -8038892906143797674
+    second: wood_env2_30
+  - first:
+      213: 4569517793551184
+    second: wood_env2_31
+  - first:
+      213: 5165235824380584401
+    second: wood_env2_32
+  - first:
+      213: -4699050379424053707
+    second: wood_env2_33
+  - first:
+      213: 2730875475218712060
+    second: wood_env2_34
+  - first:
+      213: -2502863615999041786
+    second: wood_env2_35
+  - first:
+      213: -6931867597983020003
+    second: wood_env2_36
+  - first:
+      213: 6343554866090652804
+    second: wood_env2_37
+  - first:
+      213: -1102964634687454004
+    second: wood_env2_38
+  - first:
+      213: 8139406513432021955
+    second: wood_env2_39
+  - first:
+      213: -5021587006534710210
+    second: wood_env2_46
+  - first:
+      213: -6870121367076887710
+    second: wood_env2_47
+  - first:
+      213: -4260646567335501125
+    second: wood_env2_55
+  - first:
+      213: -4650458666016411722
+    second: wood_env2_56
+  - first:
+      213: -4401764432084106690
+    second: wood_env2_57
+  - first:
+      213: 5407166362557740702
+    second: wood_env2_65
+  - first:
+      213: -2603979356366051831
+    second: wood_env2_66
+  - first:
+      213: -6633426735325863423
+    second: wood_env2_67
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wood_env2_40
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20eecd98870275920800000000000000
+      internalID: 2978885380609994242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa476b4d87e3e7110800000000000000
+      internalID: 1260513634396042415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c09ed481cbabfa20800000000000000
+      internalID: 3097258016393564354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_43
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3481f843b3601ee0800000000000000
+      internalID: -1292423471381248965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_44
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3009f26dddd8bbda0800000000000000
+      internalID: -5927988500582395901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_45
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23e2d4438b26fad0800000000000000
+      internalID: -2668897886375058644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_48
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe36f8e9651048cc0800000000000000
+      internalID: -3709838721507433489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ae2f2306857a540800000000000000
+      internalID: 5019077479922592330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_50
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b433c04b814cde210800000000000000
+      internalID: 1363961872542085963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e10685838dc5e50800000000000000
+      internalID: 6799547273935068816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_52
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04a635cf25dfd600800000000000000
+      internalID: 495348885182915594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_53
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4db8394c61781c0800000000000000
+      internalID: -4501604268988705621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_54
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92285bfde768dee0800000000000000
+      internalID: -1236123825891433830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_58
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7418612b727650b70800000000000000
+      internalID: 8864604861737894215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dfcae4843834930800000000000000
+      internalID: 4126286030182350099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d070dbbeb2a2e00800000000000000
+      internalID: 1020676557041503634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a11be705619360c0800000000000000
+      internalID: -4583660132622462557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_62
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ad7450ad0b62260800000000000000
+      internalID: 7072534715269896863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_63
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d6e9c7b13b16960800000000000000
+      internalID: 7593547377359613291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_64
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0357e5ef1cdaad4b0800000000000000
+      internalID: -5414824553251703504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ad90160c4835560800000000000000
+      internalID: 7301325382694328972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69ba8a5e597565e0800000000000000
+      internalID: -1916992620223350417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b6594bd041c1eb0800000000000000
+      internalID: -4747897858058523840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995c902c209a701a0800000000000000
+      internalID: -6843315279455730279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aea0772a3affe420800000000000000
+      internalID: 2661621032475995809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9549f4875daf7fc80800000000000000
+      internalID: -8288880794398649255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b137560ee9ece970800000000000000
+      internalID: 8785654181610860978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd1488f4cb9e8990800000000000000
+      internalID: -7381791468928361016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74428ab189a395830800000000000000
+      internalID: 4060340964024656967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62df007ef7a395960800000000000000
+      internalID: 7591162967920540966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1c51e92dbcfe100800000000000000
+      internalID: 139554218927571453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a642cf75a8be8720800000000000000
+      internalID: 2850418635124655785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_12
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfbd0bcfbb7a35d0800000000000000
+      internalID: -3082014931306037310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d868a6aaea4e5b80800000000000000
+      internalID: -8404197482947909421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a3cc86eba96ae20800000000000000
+      internalID: 3361544314471332443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5439d364c34d450800000000000000
+      internalID: 6112576866627044788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_16
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0286c9538aed520800000000000000
+      internalID: 2728803372443902206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f587c1058a13d7e0800000000000000
+      internalID: -1742019472299424268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_18
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7a76687c4bbc670800000000000000
+      internalID: 8560134285794191346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_19
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0e09f0b148613d0800000000000000
+      internalID: -3236254030458986258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166f0d59949c09ae0800000000000000
+      internalID: -1544513354304784799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21990d999592eeb50800000000000000
+      internalID: 6624277566717991186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737d57a70476dd030800000000000000
+      internalID: 3521084010303706935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0520a8a44a5f11a70800000000000000
+      internalID: 8796081633205289552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_24
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642eeff9a1c7f4190800000000000000
+      internalID: -7976019961254583738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fe6208be2dfaf80800000000000000
+      internalID: -8093018096452309232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7917704540684f0800000000000000
+      internalID: -826968722627258379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429c1f34b880e4fe0800000000000000
+      internalID: -1203014656227948252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7a55cb02eb663c0800000000000000
+      internalID: -4366593740881156119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acde065e7ec9d070800000000000000
+      internalID: 8131757644199156905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_30
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e24e56e7d107090800000000000000
+      internalID: -8038892906143797674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_31
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05321e4c3fb301000800000000000000
+      internalID: 4569517793551184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_32
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1a35d9d9a9ea740800000000000000
+      internalID: 5165235824380584401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_33
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536c3c8939e99ceb0800000000000000
+      internalID: -4699050379424053707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5cc32a6c406e520800000000000000
+      internalID: 2730875475218712060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f902f4dca044dd0800000000000000
+      internalID: -2502863615999041786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c8e20752f0dcf90800000000000000
+      internalID: -6931867597983020003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_37
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484b8868a85d80850800000000000000
+      internalID: 6343554866090652804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4c2ad228b71b0f0800000000000000
+      internalID: -1102964634687454004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_39
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbcd9b791bf4f070800000000000000
+      internalID: 8139406513432021955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_46
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c08ca193dbf4ab0800000000000000
+      internalID: -5021587006534710210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_47
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263af8f140d68a0a0800000000000000
+      internalID: -6870121367076887710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2ea7855842fd4c0800000000000000
+      internalID: -4260646567335501125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_56
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf64718b70467fb0800000000000000
+      internalID: -4650458666016411722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_57
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e328da0129ac9e2c0800000000000000
+      internalID: -4401764432084106690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96f1b9882d1a0b40800000000000000
+      internalID: 5407166362557740702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_66
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906e955629eccdbd0800000000000000
+      internalID: -2603979356366051831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_67
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102a255978551f3a0800000000000000
+      internalID: -6633426735325863423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_68
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdc2daabc4ef0db0800000000000000
+      internalID: -4823385112495075907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6e44c306a711e10800000000000000
+      internalID: 2166647449488516779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11970208ed2446c0800000000000000
+      internalID: -4160149681293782758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9ff1952d16ab3b0800000000000000
+      internalID: -5495972839185974862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_env2_72
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 56
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e894ca8f3669de0800000000000000
+      internalID: -1326763120520491458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
