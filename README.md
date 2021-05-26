@@ -1,2 +1,2 @@
 # gry_komputerowe
-Projekt na przedmiot gry komputerowe
+Projekt desktopowej gry platformowej 2d 
